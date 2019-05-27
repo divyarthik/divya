@@ -1,8 +1,8 @@
 
 n=int(input())
-if(a>==2):
+if(a%2==0):
   print("even")
-elif(a<!=2):
+elif(a%2!=0):
   print("odd")
 else:
   print("invalid")
