@@ -1,5 +1,5 @@
 val=input("")
-if (val="A" or val="z"):
+if (('a'<=val>='z')or('A'<=val>='Z')
  print("Alphabets")
 else:
  print("no")
